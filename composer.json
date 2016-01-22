@@ -1,0 +1,16 @@
+{
+    "name": "team-reflex/rcon-php",
+    "description": "CS:GO Rcon client made in PHP.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Cole",
+            "email": "david@team-reflex.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Reflex\\Rcon\\": "src/Rcon"
+        }
+    }
+}
